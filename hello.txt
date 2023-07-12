@@ -1,5 +1,2 @@
-<<<<<<< .mine
-Hello you!
-=======
 Hello everybody!
->>>>>>> .theirs
+
